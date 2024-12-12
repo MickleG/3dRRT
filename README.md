@@ -1,0 +1,1 @@
+RRT.py contains Python code that performs the RRT path planning algorithm on a 3 DOF robot arm in 3D space. Once path planning is done, the robot will drive across the path from the start node to the goal node on loop within a PyBullet simulated environment
